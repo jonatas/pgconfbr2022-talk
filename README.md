@@ -7,4 +7,4 @@ The slides are at [slides.md](slides.md). I used the vim editor with the [presen
 The talk is in portuguese and most part of the examples I walked through are also in the [script.md](script.md).
 
 
-
+You can also check [my blog post](https://ideia.me/pgconfbr-talk) walking through the topic here.
